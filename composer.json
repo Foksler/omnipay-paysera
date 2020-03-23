@@ -13,6 +13,12 @@
     ],
     "homepage": "https://github.com/povils/omnipay-paysera",
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:Foksler/omnipay-common.git"
+        }
+    ],
     "authors": [
         {
             "name": "Povilas Susinskas",
